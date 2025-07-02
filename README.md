@@ -1,12 +1,9 @@
-# Gems-of-War, v8.4 Update, March 19, 2025
+# Gems-of-War, v8.6 Update, June 24, 2025
 
-↳ BOOM -> kill one or all enemy and more surprises
-
-Get Full Mana for ALL at START // start with full mana
-
-No Need Mana 
-
+BOOM, Enable 1hit kill during your turn only
+Get Full Mana for ALL at START
 Get Extra Turn
-
-Reward Gems Souls Keys
+No Need Mana
+skip Silence Trap in Dungeon
+All Rewards
 
